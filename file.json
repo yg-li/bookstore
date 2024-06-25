@@ -1,0 +1,24 @@
+{
+  "result": [
+    {
+      "Name": "The Outsider",
+      "Author": "Stephen King",
+      "Published Date": "2018-03-19"
+    },
+    {
+      "Name": "Black House",
+      "Author": "Stephen King",
+      "Published Date": "2001-05-21"
+    },
+    {
+      "Name": "Harry Potter and the Order of the Phoenix",
+      "Author": "J K Rowling",
+      "Published Date": "2007-01-12"
+    },
+    {
+      "Name": "Harry Potter and the Deathly Hallows",
+      "Author": "J K Rowling",
+      "Published Date": "2003-04-03"
+    }
+  ]
+}
